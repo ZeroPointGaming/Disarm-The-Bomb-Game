@@ -1,0 +1,13 @@
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\DisarmBombGame\DisarmBombGame\bin\Debug\DisarmBombGame.exe.config
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\DisarmBombGame\DisarmBombGame\bin\Debug\DisarmBombGame.exe
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\DisarmBombGame\DisarmBombGame\bin\Debug\DisarmBombGame.pdb
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\DisarmBombGame\DisarmBombGame\bin\Debug\DisarmBombGame.xml
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\DisarmBombGame\DisarmBombGame\obj\Debug\DisarmBombGame.Form1.resources
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\DisarmBombGame\DisarmBombGame\obj\Debug\DisarmBombGame.Form2.resources
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\DisarmBombGame\DisarmBombGame\obj\Debug\DisarmBombGame.Resources.resources
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\DisarmBombGame\DisarmBombGame\obj\Debug\DisarmBombGame.vbproj.GenerateResource.Cache
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\DisarmBombGame\DisarmBombGame\obj\Debug\DisarmBombGame.exe
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\DisarmBombGame\DisarmBombGame\obj\Debug\DisarmBombGame.xml
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\DisarmBombGame\DisarmBombGame\obj\Debug\DisarmBombGame.pdb
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\DisarmBombGame\DisarmBombGame\obj\Debug\DisarmBombGame.vbprojAssemblyReference.cache
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\DisarmBombGame\DisarmBombGame\obj\Debug\DisarmBombGame.vbproj.CoreCompileInputs.cache
